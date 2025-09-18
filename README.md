@@ -4,9 +4,11 @@ Un projet simple avec **Spring Boot** qui implémente un CRUD (Create, Read, Upd
 
 ## 🚀 Technologies utilisées
 - Java 21
-- Spring Boot 3.x
+- Spring Boot 3.5.6
 - Spring Data JPA
-- MySQL (ou PostgreSQL, configurable)
+- MySQL
+- Spring Web
+- MySQL Driver 
 - Maven
 
 ## 📌 Fonctionnalités
